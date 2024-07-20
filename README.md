@@ -1,1 +1,1 @@
-Hier experimentiert die EENAeG mit Software-Projekten
+Hier mache ich meine ersten Gehversuche mit GitHub
